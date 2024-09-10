@@ -35,7 +35,7 @@ Since we do not collect personal data, you do not need to take any action regard
 We implement reasonable security measures to protect your information and ensure the app functions safely.
 
 ## 7. Children’s Privacy
-The FIRE BURNING Application is  intended for all ages.
+The FIRE BURNING Application is intended for all.
 
 ## 8. Changes to This Policy
 We may update this Privacy Policy from time to time. We encourage you to review this page periodically for any changes.
